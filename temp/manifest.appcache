@@ -1,0 +1,30 @@
+CACHE MANIFEST
+
+# Time: Tue Sep 11 2012 10:23:00 GMT-0500 (CDT)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /usr/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+http://api.flickr.com/services/feeds/photos_public.gne?format=json&callback=jQuery18004603160743135959_1347376980053&_=1347376980112
+http://www.google-analytics.com/ga.js
+scripts/47ce0679.scripts.js
+styles/d41d8cd9.main.css
+
+NETWORK:
+*
