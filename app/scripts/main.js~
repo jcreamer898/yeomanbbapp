@@ -1,0 +1,16 @@
+
+window.yeomanbbapp = {
+  Models: {},
+  Collections: {},
+  Views: {},
+  Routers: {},
+  Templates: {},
+  init: function() {
+    this.router = new yeomanbbapp.Router();
+    Backbone.history.start();
+  }  
+};
+
+$(document).ready(function(){
+  yeomanbbapp.init();
+});
